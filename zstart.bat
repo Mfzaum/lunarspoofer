@@ -41,3 +41,6 @@ PAUSE
 start valo1.bat
 PAUSE
 start valo2.bat
+
+start Volumeid.exe
+PAUSE
